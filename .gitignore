@@ -1,0 +1,14 @@
+# Hidden files and folders
+.*
+!.gitignore
+!.github
+!.dependabot
+
+# IntelliJ IDEA
+.idea
+*.iml
+*.ipr
+*.iws
+
+# Project files & folders
+*.tfstate
