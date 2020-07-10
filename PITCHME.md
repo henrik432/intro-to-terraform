@@ -44,7 +44,7 @@ For this we need to create a certificate and the Route53 DNS validation record.
 
 ## Deployment
 
-@img[Terraform Lifecycle](assets/img/terraform-lifecycle.png) 
+@img[no-border](assets/img/terraform-lifecycle.png) 
 
 ---
 
